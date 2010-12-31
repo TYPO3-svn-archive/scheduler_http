@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "scheduler_http".
 #
-# Auto generated 30-12-2010 22:28
+# Auto generated 31-12-2010 11:29
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.0.0',
+	'version' => '1.0.0',
 	'constraints' => array(
 		'depends' => array(
 			'scheduler' => '',
